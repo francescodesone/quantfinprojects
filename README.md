@@ -1,2 +1,2 @@
 # quantfinprojects
-This is a Repository for my quant finance projects
+This repository serves as a comprehensive collection of statistical and quantitative finance projects. My hope is that these resources will prove to be beneficial for anyone looking to enhance their understanding and skills in these fields. Whether you're a student or simply someone with a keen interest in finance, I believe you will find valuable insights  within these projects. Happy exploring!
